@@ -1,4 +1,4 @@
-### Hi there 👋
+# Jaehyun Song, Ph.D.
 
 <!--
 **JaehyunSong/JaehyunSong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
