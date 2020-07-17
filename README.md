@@ -1,5 +1,13 @@
 # Jaehyun Song, Ph.D.
 
+Ph.D. in Political Science
+
+Assistant Professor
+
+Faculty of Culture and Information Science, Doshisha University
+
+---
+
 <!--
 **JaehyunSong/JaehyunSong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
