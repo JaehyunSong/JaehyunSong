@@ -4,7 +4,7 @@ Ph.D. in Political Science
 
 Assistant Professor
 
-Faculty of Culture and Information Science, Doshisha University
+[Faculty of Culture and Information Science](https://www.cis.doshisha.ac.jp/), [Doshisha University](https://www.doshisha.ac.jp/)
 
 ---
 
