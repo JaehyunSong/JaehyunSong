@@ -8,6 +8,9 @@ Assistant Professor
 
 ---
 
+* Homepage: [https://www.jaysong.net](https://www.jaysong.net)
+* Researchmap: [https://researchmap.jp/jaysong](https://researchmap.jp/jaysong)
+
 <!--
 **JaehyunSong/JaehyunSong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
