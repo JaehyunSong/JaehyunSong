@@ -2,9 +2,9 @@
 
 Ph.D. in Political Science
 
-Assistant Professor
+Associate Professor
 
-[Faculty of Culture and Information Science](https://www.cis.doshisha.ac.jp/), [Doshisha University](https://www.doshisha.ac.jp/)
+[Faculty of Informatics](https://www.kansai-u.ac.jp/Fc_inf/index.html), [Kansai University](https://www.kansai-u.ac.jp/)
 
 ---
 
