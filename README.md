@@ -5,5 +5,5 @@
 * Homepage: [https://www.jaysong.net](https://www.jaysong.net)
 * Researchmap: [https://researchmap.jp/jaysong](https://researchmap.jp/jaysong)
 
-[![Jaehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaehyunSongshow_icons=true&theme=radical)](https://github.com/JaehyunSong/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaehyunSongshow_icons=true&theme=radical)](https://github.com/JaehyunSong/github-readme-stats)
+[![Jaehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaehyunSong&show_icons=true&theme=radical)](https://github.com/JaehyunSong/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaehyunSong&show_icons=true&theme=radical)](https://github.com/JaehyunSong/github-readme-stats)
